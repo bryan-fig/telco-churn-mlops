@@ -135,3 +135,7 @@ Entrega un PDF con capturas y respuestas:
 `data/telco_sample.csv` es un conjunto pequeño y didáctico de datos ficticios, incluido únicamente para practicar el flujo de trabajo. No representa clientes reales ni es un dataset válido para conclusiones de negocio.
 
 Este proyecto utiliza Regresión Logística, Random Forest y SVM.
+
+## Modelo SVM
+
+Support Vector Machine (SVM) es un algoritmo de aprendizaje supervisado que busca encontrar el hiperplano óptimo para separar las clases maximizando el margen entre ellas.
