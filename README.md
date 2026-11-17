@@ -133,3 +133,5 @@ Entrega un PDF con capturas y respuestas:
 ## Nota sobre los datos
 
 `data/telco_sample.csv` es un conjunto pequeño y didáctico de datos ficticios, incluido únicamente para practicar el flujo de trabajo. No representa clientes reales ni es un dataset válido para conclusiones de negocio.
+
+Este proyecto utiliza Regresión Logística, Random Forest y SVM.
