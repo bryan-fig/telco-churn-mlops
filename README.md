@@ -139,4 +139,8 @@ Este proyecto utiliza Regresión Logística, Random Forest y SVM.
 
 ## Evaluación de modelos
 
-Para evaluar el rendimiento de los modelos de clasificación utilizaremos las métricas Accuracy, F1 y ROC-AUC.git add README.md 
+Para evaluar el rendimiento de los modelos de clasificación utilizaremos las métricas Accuracy, F1 y ROC-AUC. 
+
+## Modelo SVM
+
+Support Vector Machine (SVM) es un algoritmo de aprendizaje supervisado que busca encontrar el hiperplano óptimo para separar las clases maximizando el margen entre ellas.
