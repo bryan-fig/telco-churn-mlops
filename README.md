@@ -144,3 +144,10 @@ Para evaluar el rendimiento de los modelos de clasificación utilizaremos las m�
 ## Modelo SVM
 
 Support Vector Machine (SVM) es un algoritmo de aprendizaje supervisado que busca encontrar el hiperplano óptimo para separar las clases maximizando el margen entre ellas.
+
+### Métricas de clasificación
+
+* **Accuracy (Exactitud):** Proporción total de predicciones correctas respecto al total de casos evaluados.
+* **Precision (Precisión):** Proporción de predicciones positivas que realmente son correctas (mide qué tan confiable es el modelo cuando predice abandono).
+* **Recall (Sensibilidad):** Proporción de casos positivos reales que el modelo logra detectar (mide cuántos clientes que realmente abandonan son identificados).
+* **F1-score:** Media armónica entre Precision y Recall, útil para equilibrar ambas métricas cuando las clases están desbalanceadas.
