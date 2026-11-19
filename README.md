@@ -151,3 +151,7 @@ Support Vector Machine (SVM) es un algoritmo de aprendizaje supervisado que busc
 * **Precision (Precisión):** Proporción de predicciones positivas que realmente son correctas (mide qué tan confiable es el modelo cuando predice abandono).
 * **Recall (Sensibilidad):** Proporción de casos positivos reales que el modelo logra detectar (mide cuántos clientes que realmente abandonan son identificados).
 * **F1-score:** Media armónica entre Precision y Recall, útil para equilibrar ambas métricas cuando las clases están desbalanceadas.
+
+## Resultados del proyecto
+
+Se implementó el flujo de trabajo colaborativo en GitHub mediante ramas remotas y Pull Requests, integrando la documentación de los modelos de clasificación y sus métricas de evaluación en la rama principal.
